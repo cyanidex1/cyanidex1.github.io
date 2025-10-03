@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" onload="alert('XSS!')">
-  <rect width="1%" height="1%" fill="red"/>
-  <text x="50%" y="50%" font-size="24" text-anchor="middle" fill="white">XSS SVG</text>
-</svg>
-
